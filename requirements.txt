@@ -14,7 +14,7 @@ torchvision>=0.8.1
 tqdm>=4.41.0
 
 # logging -------------------------------------
-tensorboard>=2.4.1
+tensorboard==2.4.1
 # wandb
 
 # plotting ------------------------------------
@@ -29,4 +29,4 @@ pandas
 # extras --------------------------------------
 thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
-protobuf<3.20
+
